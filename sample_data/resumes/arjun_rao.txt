@@ -1,0 +1,5 @@
+Arjun Rao
+Backend Engineer
+Experience: 5 years
+Skills: Python, FastAPI, AWS, PostgreSQL, Docker.
+Developed Python APIs and cloud applications.
